@@ -1,4 +1,4 @@
-# Fashion-Project
+# SALES ANALYSIS OF A FASHION STORE
 
 ## INTRODUCTION
 This big data/business intelligence project is part of the fulfillment of my master's degree. 
